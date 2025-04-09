@@ -1,5 +1,5 @@
 ## 📌 Small Shop Project
-A full-stack product management app that allows users to create and update products in a simple, elegant interface. Built with Chakra UI on the frontend and Express + MongoDB on the backend.
+A full-stack product management app that allows users to create and update products in a simple interface. Built with Chakra UI on the frontend and Express + MongoDB on the backend.
 
 ## 📺 Demo
 
