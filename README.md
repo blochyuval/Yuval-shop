@@ -19,15 +19,15 @@ A full-stack product management app that allows users to create and update produ
 ## 🧑‍💻 Tech Stack
 Frontend
 
-React, Vite, Chakra UI (@chakra-ui/react, @chakra-ui/icons), Emotion (@emotion/react, @emotion/styled), Zustand, React Router DOM, React Icons
+- React, Vite, Chakra UI (@chakra-ui/react, @chakra-ui/icons), Emotion (@emotion/react, @emotion/styled), Zustand, React Router DOM, React Icons
 
 Backend
 
-Node.js, Express, MongoDB (Mongoose), dotenv
+- Node.js, Express, MongoDB (Mongoose), dotenv
 
 Other Tools
 
-Postman, cross-env, nodemon
+- Postman, cross-env, nodemon
 
 ## 🔐 Environment Variables
 MONGO_URI=
